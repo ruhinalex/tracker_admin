@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "559805853224",
+    "project_id": "ipsitasoft-tracker",
+    "storage_bucket": "ipsitasoft-tracker.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:559805853224:android:0550f3159ca66006a80f1d",
+        "android_client_info": {
+          "package_name": "com.ipsitasoft.tracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "559805853224-6nubogquma369v5mcnceb691hfso5bv2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbfeTH71pSoaXJOplKwGWfsbGz8UdO96Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "559805853224-6nubogquma369v5mcnceb691hfso5bv2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "559805853224-5tt14m07c9okkcco3gj2cvmrc63mmsh1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ipsitasoft.tracker"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:559805853224:android:8317a56e718297d2a80f1d",
+        "android_client_info": {
+          "package_name": "com.ipsitasoft.tracker_admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "559805853224-6nubogquma369v5mcnceb691hfso5bv2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbfeTH71pSoaXJOplKwGWfsbGz8UdO96Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "559805853224-6nubogquma369v5mcnceb691hfso5bv2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "559805853224-5tt14m07c9okkcco3gj2cvmrc63mmsh1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ipsitasoft.tracker"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
